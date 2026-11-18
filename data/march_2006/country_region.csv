@@ -1,0 +1,110 @@
+country_id,country,region
+1,Afghanistan,Asia
+2,Algeria,Africa
+3,American Samoa,Oceania
+4,Angola,Africa
+5,Anguilla,Americas
+6,Argentina,Americas
+7,Armenia,Asia
+8,Australia,Oceania
+9,Austria,Europe
+10,Azerbaijan,Asia
+11,Bahrain,Asia
+12,Bangladesh,Asia
+13,Belarus,Europe
+14,Bolivia,Americas
+15,Brazil,Americas
+16,Brunei,Asia
+17,Bulgaria,Europe
+18,Cambodia,Asia
+19,Cameroon,Africa
+20,Canada,Americas
+21,Chad,Africa
+22,Chile,Americas
+23,China,Asia
+24,Colombia,Americas
+25,"Congo, The Democratic Republic of the",Africa
+26,Czech Republic,Europe
+27,Dominican Republic,Americas
+28,Ecuador,Americas
+29,Egypt,Africa
+30,Estonia,Europe
+31,Ethiopia,Africa
+32,Faroe Islands,Europe
+33,Finland,Europe
+34,France,Europe
+35,French Guiana,Americas
+36,French Polynesia,Oceania
+37,Gambia,Africa
+38,Germany,Europe
+39,Greece,Europe
+40,Greenland,Americas
+41,Holy See (Vatican City State),Europe
+42,Hong Kong,Asia
+43,Hungary,Europe
+44,India,Asia
+45,Indonesia,Asia
+46,Iran,Asia
+47,Iraq,Asia
+48,Israel,Asia
+49,Italy,Europe
+50,Japan,Asia
+51,Kazakstan,Asia
+52,Kenya,Africa
+53,Kuwait,Asia
+54,Latvia,Europe
+55,Liechtenstein,Europe
+56,Lithuania,Europe
+57,Madagascar,Africa
+58,Malawi,Africa
+59,Malaysia,Asia
+60,Mexico,Americas
+61,Moldova,Europe
+62,Morocco,Africa
+63,Mozambique,Africa
+64,Myanmar,Asia
+65,Nauru,Oceania
+66,Nepal,Asia
+67,Netherlands,Europe
+68,New Zealand,Oceania
+69,Nigeria,Africa
+70,North Korea,Asia
+71,Oman,Asia
+72,Pakistan,Asia
+73,Paraguay,Americas
+74,Peru,Americas
+75,Philippines,Asia
+76,Poland,Europe
+77,Puerto Rico,Americas
+78,Romania,Europe
+79,Réunion,Africa
+80,Russian Federation,Europe
+81,Saint Vincent and the Grenadines,Americas
+82,Saudi Arabia,Asia
+83,Senegal,Africa
+84,Slovakia,Europe
+85,South Africa,Africa
+86,South Korea,Asia
+87,Spain,Europe
+88,Sri Lanka,Asia
+89,Sudan,Africa
+90,Sweden,Europe
+91,Switzerland,Europe
+92,Taiwan,Asia
+93,Tanzania,Africa
+94,Thailand,Asia
+95,Tonga,Oceania
+96,Tunisia,Africa
+97,Turkey,Asia
+98,Turkmenistan,Asia
+99,Tuvalu,Oceania
+100,Ukraine,Europe
+101,United Arab Emirates,Asia
+102,United Kingdom,Europe
+103,United States,Americas
+104,Venezuela,Americas
+105,Vietnam,Asia
+106,"Virgin Islands, U.S.",Americas
+107,Yemen,Asia
+108,Yugoslavia,Europe
+109,Zambia,Africa

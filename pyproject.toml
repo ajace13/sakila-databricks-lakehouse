@@ -1,0 +1,20 @@
+[project]
+name = "sakila-lakehouse"
+version = "1.0.0"
+description = "Sakila medallion lakehouse on Delta Lake: Bronze, Silver, Silver-Enriched, Gold, Platinum, with an incremental MERGE"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+
+[tool.ruff.lint.per-file-ignores]
+# Databricks notebooks get `spark` and `display` from the runtime, and import after a sys.path change.
+"notebooks/*.py" = ["F821", "E402"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
