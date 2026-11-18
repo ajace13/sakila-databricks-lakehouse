@@ -1,8 +1,11 @@
 __pycache__/
 .pytest_cache/
+.ruff_cache/
 .ipynb_checkpoints/
+.venv/
 spark-warehouse/
 metastore_db/
+derby.log
 *.log
 .env
 .databrickscfg
