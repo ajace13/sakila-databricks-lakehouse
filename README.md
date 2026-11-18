@@ -7,7 +7,7 @@ A batch medallion pipeline on Databricks: Sakila's CSVs land as Bronze Delta tab
 ## Planned layout
 
 ```
-notebooks/   one notebook per layer, written as my own code (not the course notebook)
+notebooks/   one notebook per layer, written as my own code (not the provided starter notebook)
 src/         the same pipeline as PySpark + delta-spark, runnable locally
 tests/       row counts by layer on a small sample, run in CI
 docs/        incremental_merge.md (why the first MERGE failed, the fix, the time-travel diff), findings, screenshots
